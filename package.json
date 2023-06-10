@@ -5,7 +5,8 @@
   "dependencies": {
     "react": "^16.0.0",
     "react-dom": "^16.0.0",
-    "react-scripts": "^5.0.1"
+    "react-scripts": "^5.0.1",
+    "react-transition-group": "^4.4.5"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -26,6 +27,6 @@
     ]
   },
   "devDependencies": {
-    "@babel/plugin-proposal-private-property-in-object": "^7.21.0-placeholder-for-preset-env.2"
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
   }
 }
